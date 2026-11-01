@@ -1,6 +1,5 @@
 # PicoScope-X
-A portable dual-display digital storage oscilloscope and high-speed logic analyzer powered by the RP2040 MCU, featuring a 3.2" SPI TFT live waveform monitor, 0.91" I2C status OLED, PIO-driven parallel signal sampling, and custom analog front-end (AFE) protection circuitry on a custom PCB.
-
+**PicoScope-X** is a compact, handheld, lightweight and portable powerful oscilloscope powered by Raspberry Pi Pico 2 (RP2350). It has 4-channel logic analyzer. This build features auto-ranging analog front-end (AFE), real-time power monitoring, a 3.2" TFT display to show outputs in sine waves, rectangles or triangles according to which signal we'll measure. Also onboard micro-SD data logging can help to sort out all data.
 ## Features
 
 * **Dual-Channel Oscilloscope:** Runs on RB2350's dual core processing power to actively measure the waves formed by buffering sine wave, rectangle or triangle signal like a oscilloscope using high-speed ADCs (ADC0/ADC1). 
@@ -34,14 +33,6 @@ A portable dual-display digital storage oscilloscope and high-speed logic analyz
 | **GPIO 28** | Status LED | System heartbeat and activity indicator |
 
 ---
-
-# 🔬 PicoScope-X (Pico-DualScope HUD)
-
-**PicoScope-X** is a compact, handheld, lightweight and portable powerful oscilloscope powered by Raspberry Pi Pico 2 (RP2350). It has 4-channel logic analyzer. This build features auto-ranging analog front-end (AFE), real-time power monitoring, a 3.2" TFT display to show outputs in sine waves, rectangles or triangles according to which signal we'll measure. Also onboard micro-SD data logging can help to sort out all data.
-
----
-
-
 
 ## Power Architecture
 
