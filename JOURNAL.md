@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/t0i3pfdarnf1acc1a0unebk0)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A portable dual-display digital storage oscilloscope and high-speed logic analyzer powered by the RP2040 MCU, featuring a 3.2" SPI TFT live waveform monitor, 0.91" I2C status OLED, PIO-driven parallel signal sampling, and custom analog front-end (AFE) protection circuitry on a custom PCB.
+> PicoScope-X is a compact, handheld, lightweight and portable powerful oscilloscope powered by Raspberry Pi Pico 2 (RP2350). It has 4-channel logic analyzer. This build features auto-ranging analog front-end (AFE), real-time power monitoring, a 3.2" TFT display to show outputs in sine waves, rectangles or triangles according to which signal we'll measure. Also onboard micro-SD data logging can help to sort out all data.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
